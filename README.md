@@ -1,2 +1,2 @@
 # selenium
-all selenium commands practice
+write all selenium commands for practice
